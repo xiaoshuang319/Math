@@ -1,0 +1,4 @@
+start = 0. end = rowLen * colen - 1;
+mid = start + (end - start ) / 2;
+
+[mid / colLen][mid % colLen]
